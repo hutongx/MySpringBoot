@@ -1,0 +1,8 @@
+# application.yml
+myapp:
+  email:
+    host: smtp.gmail.com
+    port: 587
+    username: your-email@gmail.com
+    password: your-password
+    enable-ssl: true
