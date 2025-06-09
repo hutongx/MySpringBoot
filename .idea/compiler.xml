@@ -6,20 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-      </profile>
-      <profile name="Annotation profile for springboottest1" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="false">
-          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/unknown/lombok-unknown.jar" />
-        </processorPath>
-        <module name="springboottest1" />
+        <module name="MyJava" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="MySpringBoot" target="17" />
-      <module name="springtest1" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

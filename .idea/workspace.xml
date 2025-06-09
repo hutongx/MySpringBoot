@@ -5,15 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5185825b-9baf-4c68-ac42-c1cb17217955" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/springboottest1/src/main/java/com/myspringboot/springboottest1/test1/MyConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboottest1/src/main/java/com/myspringboot/springboottest1/test1/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboottest1/src/main/java/com/myspringboot/springboottest1/test1/service/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboottest1/src/main/java/com/myspringboot/springboottest1/test1/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboottest1/src/main/java/com/myspringboot/springboottest1/test2/config/EmailConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboottest1/src/main/java/com/myspringboot/springboottest1/test2/config/EmailProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboottest1/src/main/java/com/myspringboot/springboottest1/test2/controller/NotificationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboottest1/src/main/java/com/myspringboot/springboottest1/test2/service/EmailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboottest1/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/ERRTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TAnimalShelter/AniTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TAnimalShelter/AnimalShelter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TAnimalShelter/entity/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TAnimalShelter/entity/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TAnnotationReflect/MyAnnotation/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TAnnotationReflect/MyAnnotation/Inject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TAnnotationReflect/MyAnnotation/JsonProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TCollectionUtils/CollectionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TCollectionUtils/TTestCU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TDao/SimpleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TDao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TDao/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TGenericArray/GenericArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TGenericArray/SafeGenericArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TGenericArray/TestGA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TSimpleCache/SimpleCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TSimpleCache/TTestSC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TTypeGeneric/GenericUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TTypeGeneric/MethodGenericsAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TTypeGeneric/ReflectionBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TTypeGeneric/ReflectionGenericsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TTypeGeneric/SimpleJsonSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TTypeGeneric/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TTypeToken/TypeTokenDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TTypeToken/TypeTokenProblems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TTypeToken/factory/GenericFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TTypeToken/factory/ListFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TTypeToken/factory/StringFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TTypeToken/token/SuperTypeToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TTypeToken/token/TypeSafeContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/com/myspringboot/test/TTypeToken/token/TypeToken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springboottest1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboottest1/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +56,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -33,6 +65,13 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
@@ -56,10 +95,11 @@
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "zulu-17",
     "last_opened_file_path": "/Users/hutong/Code/IdeaProject/MySpringBoot",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.39770114",
-    "settings.editor.selected.configurable": "vcs.Subversion.SSH"
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "spring.configuration.checksum": "3408bc6bd992936ae056c4b3cbcb0466"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -67,13 +107,65 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Springboottest1Application">
-    <configuration name="UserController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.myspringboot.springboottest1.test1.UserController" />
-      <module name="springboottest1" />
+  <component name="RunManager" selected="Application.TypeTokenProblems">
+    <configuration name="ERRTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myspringboot.test.ERRTest" />
+      <module name="MyJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.myspringboot.springboottest1.test1.*" />
+          <option name="PATTERN" value="com.myspringboot.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myspringboot.test.TPrint" />
+      <module name="MyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myspringboot.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TTestCU" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myspringboot.test.TCollectionUtils.TTestCU" />
+      <module name="MyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myspringboot.test.TCollectionUtils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypeTokenDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myspringboot.test.TTypeToken.TypeTokenDemo" />
+      <module name="MyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myspringboot.test.TTypeToken.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypeTokenProblems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myspringboot.test.TTypeToken.TypeTokenProblems" />
+      <module name="MyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myspringboot.test.TTypeToken.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,7 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UserController" />
+        <item itemvalue="Application.TypeTokenProblems" />
+        <item itemvalue="Application.TypeTokenDemo" />
+        <item itemvalue="Application.TPrint" />
+        <item itemvalue="Application.ERRTest" />
+        <item itemvalue="Application.TTestCU" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +202,8 @@
       <option name="presentableId" value="Default" />
       <updated>1749356676314</updated>
       <workItem from="1749356677800" duration="256000" />
-      <workItem from="1749356935611" duration="3761000" />
+      <workItem from="1749356935611" duration="11017000" />
+      <workItem from="1749438121611" duration="4872000" />
     </task>
     <servers />
   </component>
