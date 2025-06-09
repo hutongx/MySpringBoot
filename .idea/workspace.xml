@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5185825b-9baf-4c68-ac42-c1cb17217955" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/my_reflect/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/my_reflect/test1/ConfigExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/my_reflect/test1/ConfigMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/my_reflect/test1/DatabaseConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/my_reflect/test2/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/Optional/OptionalBestPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/Optional/OptionalChecking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/Optional/OptionalCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava/src/main/java/Optional/OptionalTruth.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,32 +52,58 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "zulu-17",
-    "last_opened_file_path": "/Users/hutong/Code/IdeaProject/MySpringBoot",
-    "project.structure.last.edited": "Global Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.39770114",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
-    "spring.configuration.checksum": "fa631c5195f5facdf645321da33563c3"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;zulu-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hutong/Code/IdeaProject/MySpringBoot&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.39770114&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;fa631c5195f5facdf645321da33563c3&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test2">
+  <component name="RunManager" selected="Application.OptionalBestPractices">
     <configuration name="ConfigExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="my_reflect.test1.ConfigExample" />
       <module name="MyJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="my_reflect.test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalBestPractices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Optional.OptionalBestPractices" />
+      <module name="MyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Optional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Optional.OptionalCreation" />
+      <module name="MyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Optional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,32 +137,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeTokenDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.myspringboot.test.TTypeToken.TypeTokenDemo" />
-      <module name="MyJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.myspringboot.test.TTypeToken.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TypeTokenProblems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.myspringboot.test.TTypeToken.TypeTokenProblems" />
-      <module name="MyJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.myspringboot.test.TTypeToken.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Springboottest1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="springboottest1" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.myspringboot.springboottest1.Springboottest1Application" />
@@ -147,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OptionalBestPractices" />
+        <item itemvalue="Application.OptionalCreation" />
         <item itemvalue="Application.Test2" />
         <item itemvalue="Application.ConfigExample" />
         <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.TypeTokenProblems" />
-        <item itemvalue="Application.TypeTokenDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +168,8 @@
       <workItem from="1749356677800" duration="256000" />
       <workItem from="1749356935611" duration="11017000" />
       <workItem from="1749438121611" duration="5494000" />
-      <workItem from="1749452930265" duration="2905000" />
+      <workItem from="1749452930265" duration="3529000" />
+      <workItem from="1749460541054" duration="1998000" />
     </task>
     <servers />
   </component>
